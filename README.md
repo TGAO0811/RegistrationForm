@@ -25,3 +25,18 @@ This project is based on FreeCodeCamp, used to learn how to take information fro
     - **rows** and **cols** attribute changes rows and column of text area.
     - **placeholder** attribute sets text in text area until user starts typing. 
 
+- CSS **fieldset border**: 
+    - You can manipulate fieldset border with **border:**
+    - You can target specific field set border with: **border-bottom**, **border-top**, etc. 
+    - It takes inputs size, type of border (solid or other kind of line), color. 
+
+- CSS **last-of-type**: 
+    - you can target last element of type x with **x:last-of-type{}**. 
+
+- CSS **unset**:
+    - setting a parameter to unset will unset previous parameters. 
+
+- CSS **attribute selector**: 
+    - allows you to select elements with a specific attribute (ex. input[name="password"]{} selects all input elements with name as password). 
+
+
