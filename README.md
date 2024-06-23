@@ -40,4 +40,4 @@ This project is based on FreeCodeCamp, used to learn how to take information fro
     - allows you to select elements with a specific attribute (ex. input[name="password"]{} selects all input elements with name as password). 
 
 ## Completed Product: 
-![image][surveyPage.png]
+![image](surveyPage.png)
